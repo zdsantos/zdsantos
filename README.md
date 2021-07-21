@@ -1,7 +1,7 @@
 ### **Hi there 👋**
 
 #### I'm Zedequias, a Head of Technology Team, working from home in Fortaleza, Brasil.
-#### After 5 years working as a developer and studying the best way to solve problems, focusing on making the world a better place for people, I decided to change my strategy a bit, but with the same focus. Now I am inspiring my team to make the world a better place for people.
+#### After 7 years working as a developer and studying the best way to solve problems, focusing on making the world a better place for people, I decided to change my strategy a bit, but with the same focus. Now I am inspiring my team to make the world a better place for people.
 
 ##### **NOW**
 
