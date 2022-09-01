@@ -16,5 +16,3 @@
 - 💬 Ping me about **project management**, **development**, **software archteture**
 - 📫 Reach me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-zdsantos-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zedequiassantos/) or [![Twitter](https://img.shields.io/badge/Twitter-zdsantosii-informational?style=flat-square&logo=twitter&logoColor=blue)](https://twitter.com/zdsantosii)
 - ⚡️ Fun fact: I'm a huge fan of Star Wars and an almost good player of board games.
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=zdsantos&count_private=true&show_icons=true&include_all_commits=true)
