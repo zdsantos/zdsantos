@@ -6,7 +6,6 @@
 ##### **NOW**
 
 - ✨ Learning more and more about project management, agile methodologies and how to improve people
-- 💙 Flutter/Dart adventurer
 
 ##### **BIO**
 
